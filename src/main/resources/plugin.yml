@@ -1,0 +1,5 @@
+name: AstralJobsPlus
+version: '${project.version}'
+main: fr.plhume.astraljobsplus.AstralJobsPlus
+api-version: 1.19
+authors: [Plhume]
